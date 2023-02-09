@@ -119,13 +119,13 @@ a:hover{
     flex: 0;
   }
   
-  #stamp img {
+#stamp img {
     float: right;
     margin-right: 18%;
     width: 60%;
   }
 
-  #RSVP {
+#RSVP {
     background-color: #ff5C77;
     text-align: center;
     color: white;

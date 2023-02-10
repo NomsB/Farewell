@@ -16,7 +16,7 @@ a:hover{
 
 .card{
     width: 850px;
-    height: 550px;
+    height: 490px;
     position: absolute;
     margin: auto;
     left: 0;
@@ -87,7 +87,7 @@ a:hover{
 .back{
     transform: rotateY(180deg);
     /*background: linear-gradient(to bottom, white, #065535, white,#ff5C77);*/
-    background: linear-gradient(to left, #e0e0e0, #ffffff 30%);
+    background: linear-gradient(to top, white, #065535);
 }
 
 .outside p{
@@ -119,13 +119,13 @@ a:hover{
     flex: 0;
   }
   
-#stamp img {
+  #stamp img {
     float: right;
     margin-right: 18%;
     width: 60%;
   }
 
-#RSVP {
+  #RSVP {
     background-color: #ff5C77;
     text-align: center;
     color: white;
